@@ -8,6 +8,7 @@ b = 6
 print(a, b)
 print(b)
 
+# variables should define with alphabates and underscore and & sign, it's not would be the any numbers and not any character
 
 # we can assign values to the variable like this 
 num =  2.1 
