@@ -31,3 +31,6 @@ print(type(num1))   #  <class 'int'>
 
 # now we go to another topic that is datatype ,
 # we should have to know about the datatype 
+
+tup = 5,2,6,78,2.1,25
+print(type(tup))  # <class 'tupple'>
